@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+:root{
+  background-color: purple;
+}
+
+@theme {
+  --color-body: #be9a84;
+  --color-title: #CC9600
+}
